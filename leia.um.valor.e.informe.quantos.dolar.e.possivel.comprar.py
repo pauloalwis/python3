@@ -1,0 +1,1 @@
+# valor de refêrencia do dolar R$ 3,27
