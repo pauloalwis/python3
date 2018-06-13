@@ -15,8 +15,8 @@ Exercício020: Um professor quer sortear a ordem de apresentação de trabalhos 
 
 Exercício021: Faça um programa em python que abra e reproduza um áudio em MP3.
 
-Exercício022: Crie um programa que leia o nome completo de uma pessoa e mostre
-               * O nome com todas as letras maiúsculas
-               * O nome com todas minúsculas.
-               * Quantos letras ao tod ( sem considerar espaços ).
-               * Quantas letras tem o primeiro nome.
+Exercício022: Crie um programa que leia o nome completo de uma pessoa e mostre.
+              O nome com todas as letras maiúsculas
+              O nome com todas minúsculas.
+              Quantos letras ao todo ( sem considerar espaços ).
+              Quantas letras tem o primeiro nome.
