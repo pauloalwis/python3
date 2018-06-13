@@ -20,3 +20,16 @@ Exercício022: Crie um programa que leia o nome completo de uma pessoa e mostre.
               O nome com todas minúsculas.
               Quantos letras ao todo ( sem considerar espaços ).
               Quantas letras tem o primeiro nome.
+              
+Exercício023: Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos digitos separados.
+
+Exercício024: Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO"
+
+Exercício025: Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+
+Exercício026: Faça um programa que leia uma frase pelo teclado e mostre:
+              Quantas vezes aparece a letra "A".
+              Em que posição ela aparece a primeira vez.
+              Em que posição ela aparece a última vez.
+          
+Exercício027: Faça um programa que leia o nome completo de uma pessoa,  mostrando em seguida o primeiro e o último nome separadamente.
