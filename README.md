@@ -5,7 +5,8 @@
 
 [Exercício016:](https://github.com/pauloalwis/python3/blob/master/Exercicio016.py) Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção inteira.
 
-[Exercício017:](https://github.com/pauloalwis/python3/blob/master/exercicio017.py) Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o               comprimento da hipotenusa.
+[Exercício017:](https://github.com/pauloalwis/python3/blob/master/exercicio017.py) Faça um programa que leia o comprimento do cateto 
+oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
 
 [Exercício018:](https://github.com/pauloalwis/python3/blob/master/exercicio018.py) Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
 
