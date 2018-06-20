@@ -13,23 +13,23 @@ Lista de exercicíos para aprendizado da linguagem python na sua versão 3
 
 [Exercício020:](https://github.com/pauloalwis/python3/blob/master/exerc%C3%ADcio020.py) Um professor quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatros                   alunos e mostre a ordem sorteada.
 
-[Exercício021:](https://github.com/pauloalwis/python3/blob/master/exerc%C3%ADcio021.py) Faça um programa em python que abra e reproduza um áudio em MP3.
+[Exercício021:](https://github.com/pauloalwis/python3/blob/master/exercicio021.py) Faça um programa em python que abra e reproduza um áudio em MP3.
 
-[Exercício022:](https://github.com/pauloalwis/python3/blob/master/exerc%C3%ADcio022.py) Crie um programa que leia o nome completo de uma pessoa e mostre.
+[Exercício022:](https://github.com/pauloalwis/python3/blob/master/Exercicio022.py) Crie um programa que leia o nome completo de uma pessoa e mostre.
               O nome com todas as letras maiúsculas
               O nome com todas minúsculas.
               Quantos letras ao todo ( sem considerar espaços ).
               Quantas letras tem o primeiro nome.
               
-[Exercício023:](https://github.com/pauloalwis/python3/blob/master/exerc%C3%ADcio023.py) Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos digitos separados.
+[Exercício023:](https://github.com/pauloalwis/python3/blob/master/exercicio023.py) Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos digitos separados.
 
-[Exercício024:](https://github.com/pauloalwis/python3/blob/master/exerc%C3%ADcio024.py) Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO"
+[Exercício024:](https://github.com/pauloalwis/python3/blob/master/exercicio024.py) Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO"
 
-[Exercício025:](https://github.com/pauloalwis/python3/blob/master/exerc%C3%ADcio025.py) Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+[Exercício025:](https://github.com/pauloalwis/python3/blob/master/exercicio025.py) Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
 
-[Exercício026:](https://github.com/pauloalwis/python3/blob/master/exerc%C3%ADcio026.py) Faça um programa que leia uma frase pelo teclado e mostre:
+[Exercício026:](https://github.com/pauloalwis/python3/blob/master/exercicio026.py) Faça um programa que leia uma frase pelo teclado e mostre:
               Quantas vezes aparece a letra "A".
               Em que posição ela aparece a primeira vez.
               Em que posição ela aparece a última vez.
           
-[Exercício027:](https://github.com/pauloalwis/python3/blob/master/exerc%C3%ADcio027.py) Faça um programa que leia o nome completo de uma pessoa,  mostrando em seguida o primeiro e o último nome separadamente.
+[Exercício027:](https://github.com/pauloalwis/python3/blob/master/exercicio027.py) Faça um programa que leia o nome completo de uma pessoa,  mostrando em seguida o primeiro e o último nome separadamente.
