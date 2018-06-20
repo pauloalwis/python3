@@ -11,7 +11,7 @@ Lista de exercicíos para aprendizado da linguagem python na sua versão 3
 
 [Exercício019:](https://github.com/pauloalwis/python3/blob/master/exercicio019.py) Um professor quer sortear um de seus quatros alunos para apagar o quadro. Faça um programa que ajude ele lendo o nome                     deles e escrevendo o nome do escolhido.
 
-[Exercício020:](https://github.com/pauloalwis/python3/blob/master/exercicio020.py) Um professor quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatros                   alunos e mostre a ordem sorteada.
+[Exercício020:](https://github.com/pauloalwis/python3/blob/master/exerc%C3%ADcio020.py) Um professor quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatros                   alunos e mostre a ordem sorteada.
 
 Exercício021: Faça um programa em python que abra e reproduza um áudio em MP3.
 
