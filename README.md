@@ -1,7 +1,7 @@
 # python3
-H3 Estudo da linguagem de programação Python 3
+### Estudo da linguagem de programação Python 3
 
-Lista de exercicíos para aprendizado da linguagem python na sua versão 3
+##### Lista de exercicíos para aprendizado da linguagem python na sua versão 3
 
 [Exercício016:](https://github.com/pauloalwis/python3/blob/master/Exercicio016.py) Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção inteira.
 
